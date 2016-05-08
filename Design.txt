@@ -1,0 +1,13 @@
+Genre:
+	incredibly hard maze runner
+
+Main history plot:
+	Dark Souls went maze
+
+Mechanics:
+	Shifting maze with different sizes, traps and monsters to kill with mini-bosses and bosses.
+
+Room 0:
+ Menu and instructions as a "playable" level.
+ Needs keys for open the exit door.
+ Each door leads to a deadly torture machine maze.
